@@ -1,0 +1,20 @@
+<!doctype>
+<html>
+     <head>
+          <title>my web page</title>
+     </head>
+</body>
+      <table border=6>
+<tr>
+<td>cell</td1>
+<td>cell2</td2>
+<td>cell3</td3>
+</tr>
+
+<tr>
+<td>cell4</td4>
+<td>cell5</td5>
+<td>cell6</td>
+</tr>
+</tables>
+</body>
