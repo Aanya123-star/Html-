@@ -1,0 +1,26 @@
+<!doctype>
+<html>
+     <head>
+          <title>my web page </title>
+     </head>
+</body>
+      <table border="1">
+<thead>
+<tr>
+<th>Name</th>
+<th>Class</th>
+</tr>
+
+<tr>
+<tbody>
+<td>Keshav</td>
+<td>BTECH</td>
+</tbody>
+</tr>
+
+<tr>
+<tbody>
+<td>Aanya</td>
+<td>BCA</td>
+</tbody>
+</tr>
