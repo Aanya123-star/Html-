@@ -1,0 +1,11 @@
+<!doctype>
+<html>
+<body>
+<form>
+<label for ="fname">first name:</label><br>
+<input type="text" id="fname" name ="fname"><br>
+<label for =lname">last name:</label><br>
+<input type"text1"id="lname" nsme="lname">
+</form>
+</body>
+</html>
