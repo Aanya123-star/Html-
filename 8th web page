@@ -1,0 +1,12 @@
+<!doctype>
+<html>
+<head>
+     <title> my web page </title>
+<body>
+<form>
+<input type="text">first name</input><br>
+<input type="text">last name</input><br>
+<button>submit</button>
+</form>
+</body>
+</html>
